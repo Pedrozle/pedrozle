@@ -1,15 +1,43 @@
-<h1 align="center" ><img src="https://slackmojis.com/emojis/12834-meow_reachrev/download" width="30"/> Hey! I'm João Pedro!</h1>
-<img align='right' src='https://scontent.fpvh3-1.fna.fbcdn.net/v/t1.6435-1/107088650_3018324818287177_3213727328518233145_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=T8k0m6H_n8AAX8jPpi4&_nc_ht=scontent.fpvh3-1.fna&oh=00_AT_ybvJZ6PpZ1ZL9gb9QOUyEZvstHCrFQgPu-g4a42iLSg&oe=628462BC' width='150"'>
+### <i>Initializing data <img src="https://slackmojis.com/emojis/7695-windows_loading/download" width="30"/>  </i>
+```Java
+public class Dev {
+    String Name, Nickname, Pronouns[];
+    int Age, Height;
+    
+    public Dev(){
+      this.Name = "Joao Pedro";
+      this.Nickname = "Pedrozle";
+      this.Pronouns = {"He", "Him"};
+      this.Age = 23;
+      this.Height = 174;
+    }
+}
+```
 
-### <i>I am... <img src="https://slackmojis.com/emojis/46375-meow_lurk/download" width="30"/>  </i>
-
-<p>👋 I'm an university student in the Computer Science field and I'm always willing to learn. I enjoy coding while listening to music or with pair programming.</p>
-<p>🌱 I have experience: Scrum, Kanban, PHP Laravel, Java, HTML, CSS, Docker, Gitlab, JetBrains, PHPStorm... 🤔</p>
-<p>🎼 I like to listen: Pop, R&B, Dance/Eletronic, MPB and mainly The Weeknd. 💕 </p>
+### <i>Data Initialized <img src="https://slackmojis.com/emojis/4864-github-check-mark/download" width="30"/>  </i>
 
 <h2></h2>
 
-### <i>⚡ GitHub Stats</i>
+### <i>I am... <img src="https://slackmojis.com/emojis/46375-meow_lurk/download" width="35"/>  </i> 
+<p> <img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/download" width="30"/> Hi, I'm João Pedro A.K.A Pedrozle </p>
+<p> <img src="https://slackmojis.com/emojis/48624-meow_brazil/download" width="30"/> Brazillian developer looking for a job abroad 🌎 </p>
+
+<div align="right">
+  <p> <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> Listening to... <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> </p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12181318671&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f">
+</div>
+
+<h2></h2>
+
+### <i> ⚡ Skills</i>
+<p> <img src="https://slackmojis.com/emojis/21503-meow_fingerguns2/download" width="30"/> Front-end: HTML & CSS, Bootstrap Framework, Django Framework</p>
+<p> <img src="https://slackmojis.com/emojis/13505-meow_ez/download" width="30"/> Game Designer: Unity Engine </p>
+<p> <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Coding: C, C#, Java, JavaScript, Python </p>
+
+
+<h2></h2>
+
+### <i> ❗ GitHub Stats</i>
 
 <div>
   <a href="https://github.com/pedrozle">
@@ -28,5 +56,4 @@
 <a> <img src="https://visitor-badge.glitch.me/badge?page_id=pedrozle.visitor-badge" alt="visitors"></a>
 <h2></h2>
   
-### <i>🎶What am I listening to?</i>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12181318671&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=12181318671&redirect=true)
+
