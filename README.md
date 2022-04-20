@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/pedrozle">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrozle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrozle&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozle&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2></h2>
@@ -25,4 +25,4 @@
 <h2></h2>
   
 ### <i>🎶What am I listening to?</i>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12181318671&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=12181318671&redirect=true)
