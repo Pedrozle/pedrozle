@@ -17,28 +17,12 @@
   
 ### <i>🤙Where to find me...</i>
 
+[![Portifólio]](https://pedrozle.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p_dr_zl/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrozle/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/214kcdjp236xsg3vtthx5jfjy)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12181318671)
 <a> <img src="https://visitor-badge.glitch.me/badge?page_id=thaniabeatriz.visitor-badge" alt="visitors"></a>
 <h2></h2>
   
 ### <i>🎶What am I listening to?</i>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214kcdjp236xsg3vtthx5jfjy&cover_image=true&theme=natemoo-re&bar_color=ffdd00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-<!--
-**Pedrozle/pedrozle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working d
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
