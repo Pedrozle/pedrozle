@@ -55,7 +55,5 @@ public class Dev {
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12181318671)
 <a> <img src="https://visitor-badge.glitch.me/badge?page_id=pedrozle.visitor-badge" alt="visitors"></a>
 <h2></h2>
-
-https://github-contribution-graph.ez4o.com/?username=wst24365888&last_n_days=10&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif
   
 
